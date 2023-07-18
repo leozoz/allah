@@ -18,6 +18,7 @@ Checkpoint
 Punch Jammer
 Zombie Jammer
 Signal Jammer
+Ghost Charm
 Firehouse
 Thermonuclear Blast
 Change of Address
@@ -31,11 +32,8 @@ Time Space Repture
 Hellgate
 Blue Portal
 Holographic Sign
-Water Bucket
-Autoclave
-Steel Spike
-DNA Processor
-Brainflower 35 Dl
+Roulette Wheel
+Starship Light Wall
 ------------
 Sell surg role quest all 20/1 
 
